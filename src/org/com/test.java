@@ -10,6 +10,10 @@ System.out.println("china");}
 private void japan() {
 System.out.println("japan");
 }
+private void koran() {
+System.out.println("koran");
+
+}
 public static void main(String[] args) {
 	test a=new test();
 	a.china();
